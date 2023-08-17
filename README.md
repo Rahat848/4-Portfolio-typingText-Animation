@@ -1,4 +1,5 @@
-#Portfolio-typingText-Animation
+#Portfolio-typingText-Animation-CSS
+
 #live link:
 https://portfolio-typingtext-animation-4.netlify.app/
 
